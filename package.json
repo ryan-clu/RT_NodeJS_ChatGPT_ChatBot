@@ -1,0 +1,11 @@
+{
+  "name": "rt_nodejs_chatgpt_chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot using OpenAI's chatgpt library for Node.js. Prep package called re-line to prompt user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
